@@ -1,5 +1,3 @@
-# simple-or-gate-neural-network
-
 # Simple OR Gate Neural Network
 
 Bu proje, basit bir yapay sinir ağı kullanarak OR kapısını öğrenmeyi amaçlayan bir Python uygulamasıdır. Ağı, doğrusal olmayan ilişkileri öğrenme ve tahminler yapma yeteneğine sahip olan Sigmoid aktivasyon fonksiyonu kullanarak eğitmektedir.
